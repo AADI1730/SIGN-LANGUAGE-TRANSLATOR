@@ -24,8 +24,7 @@ This project detects hand signs in real-time, converts them into text, and optio
 
 Step 1: Clone the Repository
 
-git clone [https://github.com/YourUsername/Sign-Language-to-Text-and-Speech.git
-cd Sign-Language-to-Text-and-Speech](https://github.com/AADI1730/SIGN-LANGUAGE-TRANSLATOR)
+git clone (https://github.com/AADI1730/SIGN-LANGUAGE-TRANSLATOR)
 
 Step 2: Set Up a Virtual Environment
 
